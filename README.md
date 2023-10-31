@@ -1,5 +1,5 @@
 ## Hi there :wave: ! I'm TOUTA Naoufal
-I'm Salesforce developer, with 5+ years of experience in developing innovative software solutions using C# , PHP frameworks and Javascript frameworks. I'm working with cutting-edge technologies, passionate about building innovative solutions from the ground up to help businesses succeed. 
+I'm Salesforce developer, with 5+ years of experience in developing innovative software solutions. I'm working with cutting-edge technologies, passionate about building innovative solutions from the ground up to help businesses succeed. 
 Let’s make something amazing together!
 
 <!---
